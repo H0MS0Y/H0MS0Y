@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nopporn Phutjaroen (James)</h1>
-<h3 align="center">"I'm currently a Computer Engineering student at Sripatum University, and I'm very interested in cybersecurity."</h3>
+<h3 align="center">"I'm currently a Computer Engineering student at Sripatum University, and I'm Very Interested in Cybersecurity."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0ms0y&label=Profile%20views&color=0e75b6&style=flat" alt="h0ms0y" /> </p>
 
